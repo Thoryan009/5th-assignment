@@ -43,7 +43,7 @@ function clickedBtn( input, donateAmount, title)
    `
    <div class="border border-gray-200 rounded-lg m-3 ">
                 <div class="p-5 space-y-3">
-                   <h1 class="font-bold text-lg">${inputValue} Taka is Donated for ${donateTitle}</h1>
+                   <h1 class="font-bold text-lg">${inputValue} Taka is ${donateTitle}</h1>
                    <p class="text-gray-500">Date : ${date}</p>
                 </div>
    `
